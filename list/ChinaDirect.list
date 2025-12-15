@@ -4,7 +4,7 @@
 IP-CIDR,39.105.33.212/32,no-resolve
 IP-CIDR,192.161.60.91/32,no-resolve
 IP-CIDR,31.57.172.23/32,no-resolve
-IP-CIDR,156.226.171.3932,no-resolve
+IP-CIDR,156.226.171.39/32,no-resolve
 
 # 阿里云
 DOMAIN-SUFFIX,jacobli97.top
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,novelquickapp.com
 DOMAIN-SUFFIX,cctv.com
 # 115
 DOMAIN-SUFFIX,115.com
+
 
 
 
