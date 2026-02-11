@@ -3,8 +3,6 @@
 # emby
 # MSKY
 DOMAIN-SUFFIX,cf.5msky.com
-# 云海
-DOMAIN-SUFFIX,oceancloud.asia
 # 喵了个咪
 DOMAIN-SUFFIX,gy.meowfly.de
 # hka
@@ -40,6 +38,7 @@ DOMAIN-SUFFIX,hdhive.com
 
 # 结束emby
 DOMAIN-SUFFIX,biliblili.uk
+
 
 
 
