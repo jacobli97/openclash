@@ -1,36 +1,28 @@
 # Media服务
 
 # emby
-# MSKY
-DOMAIN-SUFFIX,cf.5msky.com
 # 喵了个咪
 DOMAIN-SUFFIX,gy.meowfly.de
 # hka
 DOMAIN-SUFFIX,hka-emby.aliz.work
-# zox
-DOMAIN-SUFFIX,zoxfree.3767483.xyz
-# hohai
-DOMAIN-SUFFIX,emby.hohai.eu.org
-# SNTP
-DOMAIN-SUFFIX,lite.cn2gias.uk
-# emos
-DOMAIN-SUFFIX,emos.lol
 # 二次元emby
 DOMAIN-SUFFIX,media.nijigem.by
 DOMAIN-SUFFIX,default.cdn.bgp.yt
 DOMAIN-SUFFIX,ct.cdn.bgp.yt
 DOMAIN-SUFFIX,us-w.cdn.bgp.yt
 DOMAIN-SUFFIX,cu.cdn.bgp.yt
-# 其他
-DOMAIN-SUFFIX,emby1.123456789.lol
-DOMAIN-SUFFIX,emby.wtf
-# 探花
-DOMAIN-SUFFIX,tanhuatv.site
-DOMAIN-SUFFIX,pri.tanhuatv.site
 # 游骑兵
 DOMAIN-SUFFIX,emby.heisi.org
 DOMAIN-SUFFIX,emby.tropics.de5.net
 DOMAIN-SUFFIX,emby666.alien666.de5.net
+# nyamedia
+DOMAIN-SUFFIX,bangumi.ca
+
+# 其他
+DOMAIN-SUFFIX,emby1.123456789.lol
+DOMAIN-SUFFIX,emby.wtf
+
+# Adult服
 # HG-EMBY
 DOMAIN-SUFFIX,hgemby.qzz.io
 DOMAIN-SUFFIX,sharepoint.com
@@ -38,15 +30,12 @@ DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,111660.xyz
 DOMAIN-SUFFIX,111848.xyz
 DOMAIN-SUFFIX,hgemby.xn--acg-4i2f.xyz
-# nyamedia
-DOMAIN-SUFFIX,bangumi.ca
+# 帝服
+DOMAIN-SUFFIX,emby.di0.uk
 
 # 影巢
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,hdhive.com
-
-# 结束emby
-DOMAIN-SUFFIX,biliblili.uk
 
 
 
