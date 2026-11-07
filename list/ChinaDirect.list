@@ -26,8 +26,11 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,115.com
 
 # 直连emby
-DOMAIN-SUFFIX,emby.yusen6.ccwu.cc
-DOMAIN-SUFFIX,yusen.cyou
+DOMAIN-SUFFIX,13.yusen.cyou
+DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
+DOMAIN-SUFFIX,emby.yusen.us.ci
+DOMAIN-SUFFIX,embya.yusen.cyou
+DOMAIN-SUFFIX,emby.yusen.cc.cd
 
 
 # 笨鸟
